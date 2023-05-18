@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-html5video": "^2.5.1",
+    "react-player": "^2.12.0"
+  }
+}
